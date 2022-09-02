@@ -1,1 +1,1 @@
-change working directory
+display working directory in long format
